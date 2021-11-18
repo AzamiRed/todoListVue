@@ -1,24 +1,15 @@
 # todo-list
 
-## Project setup
-```
-npm install
-```
+Тестовое задание от Фролова Евгения
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+Тестовый проект TodoList - для работы с небольшим списком задач, где пользователь может создавать, редактировать, архивировать задачи.
 
-### Compiles and minifies for production
-```
-npm run build
-```
+[ссылка на тестовое](https://vk.com/doc10258767_592437263?hash=c2bf8177edf3cbc6e0&dl=dd864c4e5f81147d77)
 
-### Lints and fixes files
-```
-npm run lint
-```
+запуск проекта:
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+1. склонировать репозиторий
+2. установить node.js
+3. в папке с проектом запустить команду npm install
+4. запустить проект командой npm run serve
+
